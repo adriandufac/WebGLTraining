@@ -7,7 +7,8 @@ html,body,head {
 #triangle-canvas {
     width: 800px;
     height: 800px;
-    background-color: burlywood;
+    /*important to have an "aggressive" background color so its well visible if something is not working with weblgl*/
+    background-color: #da6052;
 }
 
 #error-box {
