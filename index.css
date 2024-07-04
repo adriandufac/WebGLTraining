@@ -9,6 +9,18 @@ html,body,head {
     height: 800px;
     /*important to have an "aggressive" background color so its well visible if something is not working with weblgl*/
     background-color: #da6052;
+    margin: 20px;
+}
+
+.canvas-box{
+    display: flex;
+}
+
+#three-canvas {
+    width: 800px;
+    height: 800px;
+    background-color: #da6052;
+    margin: 20px;
 }
 
 #error-box {
