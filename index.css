@@ -16,7 +16,7 @@ html,body,head {
     display: flex;
 }
 
-#three-canvas {
+.three-canvas {
     width: 800px;
     height: 800px;
     background-color: #da6052;
